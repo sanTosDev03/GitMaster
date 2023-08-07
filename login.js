@@ -1,2 +1,2 @@
 let user = "ID";
-let city = "Miami";
+let new_City = "Miami";

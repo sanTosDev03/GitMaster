@@ -10,4 +10,5 @@ if (login != "Argentina") {
     console.log("Bienvenido a la republica");
 }
 
-let age = prompt("Por favor, ingrese su edad:");
+console.log("Main 3 v3");
+

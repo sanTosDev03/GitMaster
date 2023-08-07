@@ -1,2 +1,2 @@
 let user = "ID";
-let eeuu = "Miami";
+let city = "Miami";
